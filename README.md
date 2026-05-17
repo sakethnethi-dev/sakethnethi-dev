@@ -3,7 +3,7 @@
 Hello, My name is Saketh Nethi. I am a student at Toronto Metropolitan University (formerly Ryerson), majoring in Computer Science. I just completed my first year in CS.
 
 
-My Goals are to :
+My goals are to :
 - Get internships and job opprtunities
 - Study and get deep understanding of CS concepts
 - Develop necessary skills like teamworking and communication
