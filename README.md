@@ -4,7 +4,6 @@ Hello, My name is Saketh Nethi. I am a student at Toronto Metropolitan Universit
 
 
 My Goals:
-
 - Get internships and job opprtunities
 - Study and get deep understanding of CS concepts
 - Develop necessary skills like teamworking and communication
@@ -12,7 +11,6 @@ My Goals:
 
 
 Currently, some of my projects are:
-
 - Click Speed Game: A GUI game made in Java Swing framework where the user cliks on squares (the amount of which they specify) and the time taken to click all is shown
 
 - Science quiz game: A CLI made in Go language where the program reads questions and answers from a .csv file and then, will quiz the user on them in some time. 
